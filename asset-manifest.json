@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.24d3c798.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.js": "/static/js/main.3b1a1ac3.js",
+    "static/media/raghav.jpg": "/static/media/raghav.197fede8c1033ee38495.jpg",
+    "static/media/Raghavendra_Singh_Resume.pdf": "/static/media/Raghavendra_Singh_Resume.806364c5c05d88240817.pdf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.24d3c798.js.map": "/static/js/main.24d3c798.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.3b1a1ac3.js.map": "/static/js/main.3b1a1ac3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.24d3c798.js"
+    "static/js/main.3b1a1ac3.js"
   ]
 }
