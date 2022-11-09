@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.564c45a0.js",
+    "main.js": "/static/js/main.91ed92d1.js",
     "static/media/raghav.jpg": "/static/media/raghav.197fede8c1033ee38495.jpg",
+    "static/media/123.jpg": "/static/media/123.b6f228ed6886c46515c7.jpg",
     "static/media/Raghavendra_Singh_Resume.pdf": "/static/media/Raghavendra_Singh_Resume.49cef46fafec8d789878.pdf",
     "index.html": "/index.html",
-    "main.564c45a0.js.map": "/static/js/main.564c45a0.js.map"
+    "main.91ed92d1.js.map": "/static/js/main.91ed92d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.564c45a0.js"
+    "static/js/main.91ed92d1.js"
   ]
 }
