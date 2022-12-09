@@ -1,13 +1,34 @@
 {
   "files": {
-    "main.js": "/static/js/main.91ed92d1.js",
-    "static/media/raghav.jpg": "/static/media/raghav.197fede8c1033ee38495.jpg",
-    "static/media/123.jpg": "/static/media/123.b6f228ed6886c46515c7.jpg",
-    "static/media/Raghavendra_Singh_Resume.pdf": "/static/media/Raghavendra_Singh_Resume.49cef46fafec8d789878.pdf",
+    "main.css": "/static/css/main.181a59a0.css",
+    "main.js": "/static/js/main.01eb43ae.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/myntra.png": "/static/media/myntra.50e8552cef96fc19ecd2.png",
+    "static/media/tech.gif": "/static/media/tech.a763fb0901ffb491be3d.gif",
+    "static/media/bluemercurry.png": "/static/media/bluemercurry.dd22726e34d7b28c8692.png",
+    "static/media/raghav.jpg": "/static/media/raghav.a98de511fa451a266d25.jpg",
+    "static/media/indianexpress.png": "/static/media/indianexpress.b158633e6a967e332185.png",
+    "static/media/logo192.png": "/static/media/logo192.9c087ad26da946340738.png",
+    "static/media/engagebay.png": "/static/media/engagebay.45f719e078a437ce28eb.png",
+    "static/media/chakraui.png": "/static/media/chakraui.15320604467d004df871.png",
+    "static/media/mongoose.png": "/static/media/mongoose.51275a001caf5e6e30d4.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
+    "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/redux.svg": "/static/media/redux.7fe607aacc31f6e6199e70f16aae407e.svg",
+    "static/media/javascript.svg": "/static/media/javascript.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/express.svg": "/static/media/express.4925c0127df8857c18b38329795ce88f.4925c0127df8857c18b38329795ce88f.svg",
+    "static/media/css.svg": "/static/media/css.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/git.svg": "/static/media/git.c08353563539c6459b353f29d8dd7bf2.svg",
     "index.html": "/index.html",
-    "main.91ed92d1.js.map": "/static/js/main.91ed92d1.js.map"
+    "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
+    "static/media/npm.svg": "/static/media/npm.87689eab730642c86d2b01f3ef4a19e3.svg",
+    "main.181a59a0.css.map": "/static/css/main.181a59a0.css.map",
+    "main.01eb43ae.js.map": "/static/js/main.01eb43ae.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.91ed92d1.js"
+    "static/css/main.181a59a0.css",
+    "static/js/main.01eb43ae.js"
   ]
 }
