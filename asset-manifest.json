@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.01c25792.css",
-    "main.js": "/static/js/main.b1816f31.js",
+    "main.css": "/static/css/main.6f60a3ac.css",
+    "main.js": "/static/js/main.811ef492.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/raghav.jpg": "/static/media/raghav.04e4308ecff0202eb725.jpg",
     "static/media/myntra.png": "/static/media/myntra.50e8552cef96fc19ecd2.png",
     "static/media/tech.gif": "/static/media/tech.a763fb0901ffb491be3d.gif",
     "static/media/bluemercurry.png": "/static/media/bluemercurry.dd22726e34d7b28c8692.png",
-    "static/media/raghav.jpg": "/static/media/raghav.a98de511fa451a266d25.jpg",
     "static/media/indianexpress.png": "/static/media/indianexpress.b158633e6a967e332185.png",
     "static/media/logo192.png": "/static/media/logo192.9c087ad26da946340738.png",
     "static/media/engagebay.png": "/static/media/engagebay.45f719e078a437ce28eb.png",
@@ -23,12 +23,12 @@
     "index.html": "/index.html",
     "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/npm.svg": "/static/media/npm.87689eab730642c86d2b01f3ef4a19e3.svg",
-    "main.01c25792.css.map": "/static/css/main.01c25792.css.map",
-    "main.b1816f31.js.map": "/static/js/main.b1816f31.js.map",
+    "main.6f60a3ac.css.map": "/static/css/main.6f60a3ac.css.map",
+    "main.811ef492.js.map": "/static/js/main.811ef492.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01c25792.css",
-    "static/js/main.b1816f31.js"
+    "static/css/main.6f60a3ac.css",
+    "static/js/main.811ef492.js"
   ]
 }
