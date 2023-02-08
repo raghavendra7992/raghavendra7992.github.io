@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.042ff56d.css",
-    "main.js": "/static/js/main.b9c09ed3.js",
+    "main.js": "/static/js/main.8f72fecf.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/raghav.jpg": "/static/media/raghav.04e4308ecff0202eb725.jpg",
     "static/media/myntra.png": "/static/media/myntra.50e8552cef96fc19ecd2.png",
     "static/media/tech.gif": "/static/media/tech.a763fb0901ffb491be3d.gif",
     "static/media/bluemercurry.png": "/static/media/bluemercurry.dd22726e34d7b28c8692.png",
     "static/media/indianexpress.png": "/static/media/indianexpress.b158633e6a967e332185.png",
-    "static/media/resume.pdf": "/static/media/resume.6d42cce1cc8866f7ae46.pdf",
+    "static/media/resume.pdf": "/static/media/resume.9cac010bb1c277abca15.pdf",
     "static/media/logo192.png": "/static/media/logo192.9c087ad26da946340738.png",
     "static/media/engagebay.png": "/static/media/engagebay.45f719e078a437ce28eb.png",
     "static/media/chakraui.png": "/static/media/chakraui.15320604467d004df871.png",
@@ -25,11 +25,11 @@
     "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/npm.svg": "/static/media/npm.87689eab730642c86d2b01f3ef4a19e3.svg",
     "main.042ff56d.css.map": "/static/css/main.042ff56d.css.map",
-    "main.b9c09ed3.js.map": "/static/js/main.b9c09ed3.js.map",
+    "main.8f72fecf.js.map": "/static/js/main.8f72fecf.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.042ff56d.css",
-    "static/js/main.b9c09ed3.js"
+    "static/js/main.8f72fecf.js"
   ]
 }
